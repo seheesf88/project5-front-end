@@ -128,8 +128,7 @@ handleLoginChange = (e) => {
 
 fetchLogin = async(updatedLogin) => {
   console.log('fetch login', updatedLogin)
-  // console.log("555itj5itjiojioejro ", process.env.REACT_APP_API);
-  //                                   ${process.env.REACT_APP_API}
+
   try {
     const response = await fetch(`${process.env.REACT_APP_API}/api/v1/auth/login`, {
       method: 'POST',
