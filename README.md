@@ -6,8 +6,10 @@ My trip planner
 
 *** User story ***
 
-This application is for traveler who needs to plan and manage budget and itinerary. Once user create the plan profile, 
+This is full stack web application that can help travelers to manage trip plan and budget. Once user create the plan profile, 
 user can plan each day, and also can calculate how much the trip cost by per person. Also, user can share thier trip plans with other users so they can get or give some tips from other users.
+
+
 
 1. login/register page
    - User can login if they have account
