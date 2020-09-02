@@ -18,5 +18,7 @@ Technologies Used
 ### Installation and Setup
 
 ```
-npm install
+git clone https://github.com/seheesf88/project5-front-end.git
+npm install -g
+
 ```
